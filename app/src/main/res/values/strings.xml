@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">portfolio</string>
+    <string name="bottomtext">Matheus Gabriel de Lima\n\nDesenvolvedor Python, graduando de Ciência da Computação, escritor e entusiasta da linguística e linguagens, reais ou artificiais.</string>
+    <string name="linkedin">linkedin.com/in/methaus/</string>
+    <string name="github">github.com/methaus</string>
+    <string name="voltar">Voltar</string>
+</resources>
